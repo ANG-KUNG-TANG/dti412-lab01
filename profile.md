@@ -33,7 +33,21 @@ Future Development Plan
 - Technologies I want to learn: Cloud deployment, CI/CD, containerisation, and advanced AI integration.
 - Dream Job Position: Full-Stack Developer.
 
-One detail I still need: What is your student ID? I don't want to invent it.
+### Semester Goals
+
+During this semester, I aim to strengthen my software development skills through practical projects and collaborative learning.
+
+My main goals are:
+
+1. **Improve Full-Stack Development:** Become more confident in building complete web applications using React, Next.js, TypeScript, and backend technologies.
+2. **Strengthen Problem-Solving Skills:** Improve my understanding of Data Structures and Algorithms to develop better programming logic.
+3. **Learn Software Engineering Practices:** Gain practical experience with Git, GitHub, database design, API development, testing, and system architecture.
+4. **Build Real-World Applications:** Develop applications that address actual problems and provide value to users.
+5. **Improve Collaboration:** Become more effective at working with other developers through version control, teamwork, and code reviews.
+6. **Prepare for Internships:** Build a stronger technical portfolio and develop the skills required for professional software engineering opportunities.
+
+By the end of this semester, I want to become a more independent developer who can design, develop, test, and deploy a functional web application.
+
 ## GitHub
 
 [Visit my GitHub Profile](https://github.com/ANG-KUNG-TANG)
