@@ -26,6 +26,18 @@ A web application project designed to support university hackathon activities.
 
 My goal is to become a skilled Full-Stack Developer, strengthen my software engineering fundamentals, and develop applications that create meaningful real-world impact.
 
+## Learning Journey
+
+I continuously improve my programming and software engineering skills through hands-on projects and independent study.
+
+Currently, I am focusing on:
+- Data Structures and Algorithms
+- Full-Stack Web Development
+- Backend Development and API Design
+- Database Management
+- Software Engineering and System Design
+
+I believe that consistent learning and practical experience are essential for becoming a professional software developer.
 ## GitHub
 
 [Visit my GitHub Profile](https://github.com/ANG-KUNG-TANG)
