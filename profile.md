@@ -1,43 +1,39 @@
-# Developer Profile
 
-## About Me
+## Student Developer Profile
 
-I'm a Computer Science student at Kasem Bundit University, Thailand.
+Personal Information
 
-I am passionate about software development, problem-solving, and building practical applications that solve real-world problems.
+- Full Name: Ang Kung Tang
+- Student ID: 240702402543
+- Program: B.Digital Technology Innovation (Computer Science), Kasem Bundit University
+- Academic Year: Third Year
 
-## Technical Skills
+Technical Skills
 
-- **Programming Languages:** TypeScript, JavaScript, Python
-- **Frontend:** React, Next.js, HTML, CSS
-- **Backend:** Node.js, REST APIs
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Docker
+- Programming Languages: TypeScript, JavaScript, Python
+- Database Skills: MongoDB, PostgreSQL
+- Web Development Skills: React, Next.js, Node.js, REST APIs, HTML, CSS
 
-## Projects
+Personal Interests
 
-### AI Study Assistant
-An AI-powered study assistant that helps students interact with learning materials through a web application and Telegram bot.
+- Hobbies: Learning new technologies, solving programming problems, building software projects, and collaborating with developers.
+- Favorite Technology: TypeScript, React, Next.js, and AI-powered applications.
 
-### KBU Hackathons
-A web application project designed to support university hackathon activities.
+Career Goal
 
-## Career Goals
+After graduation, I aim to work as a Full-Stack Developer. I want to build reliable, useful, and user-friendly applications while strengthening my software engineering, problem-solving, and system design skills.
 
-My goal is to become a skilled Full-Stack Developer, strengthen my software engineering fundamentals, and develop applications that create meaningful real-world impact.
+Learning Expectations
 
-## Learning Journey
+From DTI412, I expect to strengthen my practical application-development skills and understand how software projects are planned, developed, documented, tested, and maintained. I also want to improve my ability to collaborate and apply professional software engineering practices.
 
-I continuously improve my programming and software engineering skills through hands-on projects and independent study.
+Future Development Plan
 
-Currently, I am focusing on:
-- Data Structures and Algorithms
-- Full-Stack Web Development
-- Backend Development and API Design
-- Database Management
-- Software Engineering and System Design
+- Technical skills I want to improve: Data Structures and Algorithms, backend development, API design, database management, testing, and system design.
+- Technologies I want to learn: Cloud deployment, CI/CD, containerisation, and advanced AI integration.
+- Dream Job Position: Full-Stack Developer.
 
-I believe that consistent learning and practical experience are essential for becoming a professional software developer.
+One detail I still need: What is your student ID? I don't want to invent it.
 ## GitHub
 
 [Visit my GitHub Profile](https://github.com/ANG-KUNG-TANG)
